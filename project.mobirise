@@ -73,8 +73,8 @@
         "title": "FullCredit - Кредитование это наша работа",
         "meta_descr": "",
         "header_custom": "<meta name=\"yandex-verification\" content=\"7dc99ffbe8881cfc\" />",
-        "footer_custom": "",
-        "html_before": ""
+        "footer_custom": "<meta name=\"yandex-verification\" content=\"7dc99ffbe8881cfc\" />",
+        "html_before": "<meta name=\"yandex-verification\" content=\"7dc99ffbe8881cfc\" />"
       },
       "components": [
         {
