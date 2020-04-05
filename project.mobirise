@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "bankgarantees.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -70,9 +70,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "BankCred - Кредитование это наша работа",
+        "title": "FullCredit - Кредитование это наша работа",
         "meta_descr": "",
-        "header_custom": "<meta name=\"yandex-verification\" content=\"af822ac2c3fe2d60\" />\n",
+        "header_custom": "<meta name=\"yandex-verification\" content=\"7dc99ffbe8881cfc\" />",
         "footer_custom": "",
         "html_before": ""
       },
@@ -726,7 +726,7 @@
     "creditul.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "BankCred - Кредитование ЮЛ",
+        "title": "FullCredit - Кредитование ЮЛ",
         "order": 1
       },
       "components": [
@@ -1244,7 +1244,7 @@
     "bankgarantees.html": {
       "settings": {
         "meta_descr": "",
-        "title": "BankCred - Банковские гарантии",
+        "title": "FullCredit - Банковские гарантии",
         "order": 2
       },
       "components": [
