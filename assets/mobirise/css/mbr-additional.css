@@ -1097,7 +1097,7 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #b6123b !important;
+  color: #b61212 !important;
 }
 .cid-rFDejcDriC {
   padding-top: 90px;
@@ -1383,7 +1383,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rVuUFL4UL9 H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-s88zJZjVNY {
   background-image: url("../../../assets/images/mbr-1920x1281.jpg");
@@ -1864,7 +1864,7 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #b6123b !important;
+  color: #b61212 !important;
 }
 .cid-s7q7qSGp8x {
   background-image: url("../../../assets/images/background1.jpg");
@@ -2446,7 +2446,7 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #b6123b !important;
+  color: #b61212 !important;
 }
 .cid-rHNkxUbQtf {
   padding-top: 90px;
@@ -2496,29 +2496,96 @@ section.lazy-placeholder:after {
     padding-bottom: 1.5rem;
   }
 }
-.cid-rHNnzCZOER {
+.cid-s88F8BWKL3 {
   background-image: url("../../../assets/images/mbr-1920x1281.jpg");
 }
-.cid-rHNnzCZOER .form-control,
-.cid-rHNnzCZOER .form-control:focus {
+.cid-s88F8BWKL3 .form-control,
+.cid-s88F8BWKL3 .form-control:focus {
   background: #ffffff;
   border: 1px solid #ffffff;
 }
-.cid-rHNnzCZOER .form-container {
+.cid-s88F8BWKL3 .form-container {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
 }
-.cid-rHNnzCZOER textarea.form-control {
+.cid-s88F8BWKL3 textarea.form-control {
   min-height: 188px;
 }
-.cid-rHNnzCZOER .input-group-btn {
+.cid-s88F8BWKL3 .input-group-btn {
   justify-content: center;
   -webkit-justify-content: center;
 }
 @media (min-width: 768px) {
-  .cid-rHNnzCZOER .content-container {
+  .cid-s88F8BWKL3 .content-container {
     padding-right: 5rem;
+  }
+}
+.cid-s88FaIjdEQ {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-s88FaIjdEQ .content {
+    text-align: center;
+  }
+  .cid-s88FaIjdEQ .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s88FaIjdEQ .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-s88FaIjdEQ .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-s88FaIjdEQ .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-s88FaIjdEQ .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-s88FaIjdEQ .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-s88FaIjdEQ .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-s88FaIjdEQ .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-s88FaIjdEQ .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-s88FaIjdEQ .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-s88FaIjdEQ .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-s88FaIjdEQ .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
   }
 }
 .cid-s88w39IQH3 .navbar {
@@ -2908,7 +2975,7 @@ section.lazy-placeholder:after {
 }
 .cid-s88w39IQH3 .nav-link:hover,
 .cid-s88w39IQH3 .dropdown-item:hover {
-  color: #b6123b !important;
+  color: #b61212 !important;
 }
 .cid-s88w3adlDI {
   background-image: url("../../../assets/images/mbr-1-1920x1281.jpg");
@@ -3490,7 +3557,7 @@ section.lazy-placeholder:after {
 }
 .cid-s88BUtGI6Q .nav-link:hover,
 .cid-s88BUtGI6Q .dropdown-item:hover {
-  color: #b6123b !important;
+  color: #b61212 !important;
 }
 .cid-s88BUun5uo {
   background-image: url("../../../assets/images/mbr-1-1920x1281.jpg");
@@ -4072,7 +4139,7 @@ section.lazy-placeholder:after {
 }
 .cid-s88BVWmqPy .nav-link:hover,
 .cid-s88BVWmqPy .dropdown-item:hover {
-  color: #b6123b !important;
+  color: #b61212 !important;
 }
 .cid-s88BVWUvqV {
   background-image: url("../../../assets/images/mbr-1920x1101.jpg");
